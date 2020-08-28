@@ -2,13 +2,9 @@
 
 <p align="center"
 
-![img](https://i.postimg.cc/NFmrTYXq/image.png)
+![img](scrots/2020-08-28_11-24-06.png)
 
 </p>
-
-<p align="center"
-
-![img](https://i.postimg.cc/nrLVv6Sh/what.png)
 
 </p>
 
