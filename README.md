@@ -22,7 +22,7 @@
 
 <p align="center"
 
-![img](scrots/light.png)
+![img](scrots/light-variant.png)
 
 </p>
 
