@@ -1,8 +1,17 @@
 <h3 align="center">Mountaineer.vim</h2>
 <p align="center">Embrace the adventurer within you</p>
+
+
+<p align="center"
+
+![img](scrots/mountaineer.png)
+
+</p>
+
 <hr />
 
 <h4 align="center">Dark Variant</h4>
+
 
 <p align="center"
 
