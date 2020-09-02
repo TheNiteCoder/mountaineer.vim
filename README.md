@@ -8,8 +8,6 @@
 
 </p>
 
-<hr />
-
 <h4 align="center">Dark Variant</h4>
 
 
