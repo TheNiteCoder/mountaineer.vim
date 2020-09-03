@@ -40,5 +40,9 @@
 ### Installation:
 Simply move the variant you would like to use into your Vim/Neovim colorscheme folder, A [lightline.vim](https://github.com/itchyny/lightline.vim) colorscheme is also included.
 
-### Too Colorful?
-Try out the [gunmetal.vim](https://github.com/co1ncidence/gunmetal) colorscheme, it uses the same color palette as mountaineer but aims to highlight only important syntax elements and keep the user free of distractions.
+## TODO
+
+- ~~Add schemes for VTE terminals~~
+- Add schemes for alacritty/kitty
+- Liny my matching ST build
+- Add Openbox theme
