@@ -43,5 +43,5 @@ Simply move the variant you would like to use into your Vim/Neovim colorscheme f
 
 - ~~Add schemes for VTE terminals~~
 - Add schemes for alacritty/kitty
-- Liny my matching ST build
+- Link matching ST build
 - Add Openbox theme
