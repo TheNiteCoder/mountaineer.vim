@@ -10,10 +10,9 @@
 
 <h4 align="center">Dark Variant</h4>
 
-
 <p align="center"
 
-![img](scrots/2020-08-28_11-24-06.png)
+![img](scrots/dark-variant.png)
 
 </p>
 
@@ -21,7 +20,7 @@
 
 <p align="center"
 
-![img](scrots/2020-08-28_11-29-54.png)
+![img](scrots/grey-variant.png)
 
 </p>
 
