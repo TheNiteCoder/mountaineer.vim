@@ -34,10 +34,3 @@
 
 ### Installation:
 Simply move the variant you would like to use into your Vim/Neovim colorscheme folder, A [lightline.vim](https://github.com/itchyny/lightline.vim) colorscheme is also included.
-
-## TODO
-
-- ~~Add schemes for VTE terminals~~
-- Add schemes for alacritty/kitty
-- Link matching ST build
-- Add Openbox theme
