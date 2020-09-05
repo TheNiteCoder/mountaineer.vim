@@ -1,4 +1,4 @@
-<h3 align="center">Mountaineer.vim - Embrace the adventurer within you</h2>
+<h1 align="center">Mountaineer.vim - Embrace the adventurer within you</h1>
 
 <p align="center"
 
