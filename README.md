@@ -1,6 +1,4 @@
-<h3 align="center">Mountaineer.vim</h2>
-<p align="center">Embrace the adventurer within you</p>
-
+<h3 align="center">Mountaineer.vim - Embrace the adventurer within you</h2>
 
 <p align="center"
 
@@ -8,7 +6,7 @@
 
 </p>
 
-<h4 align="center">Dark Variant</h4>
+<h2 align="center">Dark Variant</h2>
 
 <p align="center"
 
@@ -16,7 +14,7 @@
 
 </p>
 
-<h4 align="center">Gray Variant</h4>
+<h2 align="center">Gray Variant</h2>
 
 <p align="center"
 
@@ -24,7 +22,7 @@
 
 </p>
 
-<h4 align="center">Light Variant</h4>
+<h2 align="center">Light Variant</h2>
 
 <p align="center"
 
