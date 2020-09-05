@@ -1,4 +1,4 @@
-<h1 align="center">Mountaineer.vim - Embrace the adventurer within you</h1>
+<h1 align="center">Mountaineer.vim</h1>
 
 <p align="center"
 
@@ -6,29 +6,27 @@
 
 </p>
 
-<h2 align="center">Dark Variant</h2>
+***
 
-<p align="center"
+<p align="center" 
 
-![img](scrots/dark-variant.png)
-
-</p>
-
-<h2 align="center">Gray Variant</h2>
-
-<p align="center"
-
-![img](scrots/grey-variant.png)
+![img](scrots/dark-variant.png) 
 
 </p>
 
-<h2 align="center">Light Variant</h2>
+***
 
-<p align="center"
+<p align="center" 
 
-![img](scrots/light-variant.png)
+![img](scrots/grey-variant.png) 
 
 </p>
+
+***
+
+<p align="center" 
+
+![img](scrots/light-variant.png) 
 
 </p>
 
